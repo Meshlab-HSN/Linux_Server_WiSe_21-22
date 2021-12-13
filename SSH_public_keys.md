@@ -1,15 +1,16 @@
-# Add your public SSH keys in the table 
+# Generate a new ssh key pair (sshpkeygen -t rsa -b 4096)
+# Add your public SSH key in the table
 
 <br/>
 
-**Choose & Commit ... 2 students per group**
+**Choose & Commit 
 
-|  Student Name	        |  Description		          	|  public ssh key per user |  key user 2    |
-| :-------------------: | :-------------------------: | :----------------------: | :------------: |
-|                       |                             |                          |                |
-|                       |                             |                          |                |
-|                       |                             |                          |                |
-|                       |                             |                          |                |
-|                       |                             |                          |                |
-|                       |                             |                          |                |
-|                       |                             |                          |                
+|  Student Name	        |  team name 		          	  |  public ssh key per user |
+| :-------------------: | :-------------------------: | :----------------------: |
+|                       |                             |                          |
+|                       |                             |                          |
+|                       |                             |                          |
+|                       |                             |                          |
+|                       |                             |                          |
+|                       |                             |                          |
+|                       |                             |                          |
