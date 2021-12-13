@@ -15,4 +15,19 @@
 | Valerius Begau        | Karpador                    |  ssh root@172.30.1.9       |  ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQD2EUugfoDDo5JGgDe9MyVbKi0qF7deDqxULUqQASLj9wwIKH7Z8nRHdfE5bPCWbACGGUUn5OS7WULJBX9X/fHrEb53saI8MKm9KrLmWL8VuYGKfD1fJQz6dE/nHPIIZEljoOj3dTl+adTrr0AHxERYM8tWtIxpblRreaFEXAwWw9IeIX3tTlhnznpYG72aWOw3BgM0DI7ObpeNTAM9WCMWwL+6+H0BG56DSOfcan7DR630Rt84dQm7bhUw6h5sD/b6VHTUfwdabcCCMufDWJy9ttCFpQ70s/8EPhEayYs2z0tPVMokyhEQnNwrakiVP36AFNVbmrm+PcZXSswnLz54aAfymo0uC5kN4Y4rgangovUrvmtX7kEcwg67MF5WuLXf7uxlxJz+Sme1VwG2PAmnRzHZ/VGML2yA0qcxs9tkT1lboNEQpYSy/aQdt6T4d23kqp3pFMJInkSy8sJ7l6MWVSirHKL8nzIiEittV1Fp4nTSsP9Mo4Qs7l3GqfbI6FM= valerius@Valerius-PC
 | Nils Collmann         | Karpador                    |   ssh root@172.30.1.9       |  ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQD2EUugfoDDo5JGgDe9MyVbKi0qF7deDqxULUqQASLj9wwIKH7Z8nRHdfE5bPCWbACGGUUn5OS7WULJBX9X/fHrEb53saI8MKm9KrLmWL8VuYGKfD1fJQz6dE/nHPIIZEljoOj3dTl+adTrr0AHxERYM8tWtIxpblRreaFEXAwWw9IeIX3tTlhnznpYG72aWOw3BgM0DI7ObpeNTAM9WCMWwL+6+H0BG56DSOfcan7DR630Rt84dQm7bhUw6h5sD/b6VHTUfwdabcCCMufDWJy9ttCFpQ70s/8EPhEayYs2z0tPVMokyhEQnNwrakiVP36AFNVbmrm+PcZXSswnLz54aAfymo0uC5kN4Y4rgangovUrvmtX7kEcwg67MF5WuLXf7uxlxJz+Sme1VwG2PAmnRzHZ/VGML2yA0qcxs9tkT1lboNEQpYSy/aQdt6T4d23kqp3pFMJInkSy8sJ7l6MWVSirHKL8nzIiEittV1Fp4nTSsP9Mo4Qs7l3GqfbI6FM= valerius@Valerius-PC
 | Oliver Schröder       | Karpador                    |   ssh root@172.30.1.9       |  ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQD2EUugfoDDo5JGgDe9MyVbKi0qF7deDqxULUqQASLj9wwIKH7Z8nRHdfE5bPCWbACGGUUn5OS7WULJBX9X/fHrEb53saI8MKm9KrLmWL8VuYGKfD1fJQz6dE/nHPIIZEljoOj3dTl+adTrr0AHxERYM8tWtIxpblRreaFEXAwWw9IeIX3tTlhnznpYG72aWOw3BgM0DI7ObpeNTAM9WCMWwL+6+H0BG56DSOfcan7DR630Rt84dQm7bhUw6h5sD/b6VHTUfwdabcCCMufDWJy9ttCFpQ70s/8EPhEayYs2z0tPVMokyhEQnNwrakiVP36AFNVbmrm+PcZXSswnLz54aAfymo0uC5kN4Y4rgangovUrvmtX7kEcwg67MF5WuLXf7uxlxJz+Sme1VwG2PAmnRzHZ/VGML2yA0qcxs9tkT1lboNEQpYSy/aQdt6T4d23kqp3pFMJInkSy8sJ7l6MWVSirHKL8nzIiEittV1Fp4nTSsP9Mo4Qs7l3GqfbI6FM= valerius@Valerius-PC
-|                       |                             |                          |
+|       Amer             |      pikchu                 |                          | ---- BEGIN SSH2 PUBLIC KEY ----
+Comment: "rsa-key-20211213"
+AAAAB3NzaC1yc2EAAAADAQABAAACAQC5PP99hOA5uUG/AIiW78bDcbqhMJVzukzg
+1mWbBHsXF0+Vopi0P0aFWqVSMrSA+PAOdERZ+Vd0o/ZSADVx3KXBG71NmxW6sIYL
+iVl6YkZrQtaC7SJzVNrIyuVEhm9tMSA5jSn/i98+nnnV6PGIU5fwdPKruSUedWRm
+MM2Hm6lLoVmgSWWT76MDOlqgnhcq37/iInKYZo7mzcYGGUA3giCC338+bThz+LDM
+fpuam3KLjeGlodtVEgKme1Q5Tq88Mvl3IcOeeHwYndUx+5kbrqdkge33vxrxRaEn
+iM9LvpuIAeu7M2Qa3mnFU0C7jrecw8xGp5KHkxUB3aRRVyPj+wt1uqo5x4n26y4G
+rKs36W4WXKdInfFtDOzFeJmChN+8mwwiDsseSCA0XoxaOF/W10PcBDpqjsxijoCp
+II77qMVfQOQeZESNyuo/LSPa1lMdrR2Hs97fH6FuvQWZDDOeghA/KyxiC8Fa34ZX
+EXFIrW2fgjliP3YleaG1R+hNFI3xhPxRsVbdH+kYn40bTnoYErt9ezYBAdG0grrH
+T0Xm3PN4yzk9CmZUnmVyDBHqeXhUt8mRR+iCmJCJpJTQD56E52wGGauhN5IryXB/
+LS8NPtjWUhASfI6HcAU5PtgIlW3svQiRODrqddCrF5YMkFDVvuq52fwWNloTVLX6
+RUJFOeOtxw==
+---- END SSH2 PUBLIC KEY ----
+
