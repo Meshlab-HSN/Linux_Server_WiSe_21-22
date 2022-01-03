@@ -20,4 +20,4 @@
 
 
 # Check your ssh connectivity to our stepping-stone server
-```ssh remote@109.73.30.43 -p 20322```
+```ssh remote@109.73.30.34 -p 20322```
