@@ -21,3 +21,6 @@
 ```ssh remote@109.73.30.34 -p 20322 -i [/Pfad/zu/euerem/private/key]```
 
 ### Check the ssh connectivity from the stepping stone to your OpenWrt Linux VM assigned in the list
+
+### if all works, you can simplify the two-step ssh connection with the ProxyJump command:
+```ssh -J remote@109.73.30.34 -p 20322 -i [/Pfad/zu/euerem/private/key] root@172.30.1.[your_VM_IP]```
