@@ -26,6 +26,6 @@
 
 OpenWrt Linux: ```opkg update; opkg install kmod-wireguard wireguard-tools```
 
-Endeavouros Linux: ```sudo pacman -S wireguard``` bzw. könnte es auch schon installiert sein
+Endeavouros Linux: ```sudo pacman -S wireguard-tools``` bzw. könnte es auch schon installiert sein
 
 
