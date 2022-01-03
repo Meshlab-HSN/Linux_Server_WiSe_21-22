@@ -23,7 +23,9 @@
 ### Check the ssh connectivity from the stepping stone to your OpenWrt Linux VM assigned in the list
 
 ### Install Wireguard on your OpenWrt VM & Desktop Linux in our Lab
+
 OpenWrt Linux: ```opkg update; opkg install kmod-wireguard wireguard-tools```
+
 Endeavouros Linux: ```sudo pacman -S wireguard``` bzw. könnte es auch schon installiert sein
 
 
