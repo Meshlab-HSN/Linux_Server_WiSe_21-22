@@ -21,3 +21,5 @@
 
 # Check your ssh connectivity to our stepping-stone server
 ```ssh remote@109.73.30.34 -p 20322```
+
+# Check the ssh connectivity from the stepping stone to your OpenWrt Linux VM assigned in the list
