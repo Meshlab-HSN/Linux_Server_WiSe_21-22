@@ -1,4 +1,4 @@
-# Generate a new ssh key pair (sshpkeygen -t rsa -b 4096)
+# Generate a new ssh key pair (ssh-keygen -t rsa -b 4096)
 # Add your public SSH key in the table
 
 <br/>
