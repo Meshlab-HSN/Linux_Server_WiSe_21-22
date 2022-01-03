@@ -22,5 +22,8 @@
 
 ### Check the ssh connectivity from the stepping stone to your OpenWrt Linux VM assigned in the list
 
-### if all works, you can simplify the two-step ssh connection with the ProxyJump command:
-```ssh -J remote@109.73.30.34:20322 -i [/Pfad/zu/euerem/private/key] root@172.30.1.[your_VM_IP]:22```
+### Install Wireguard on your OpenWrt VM & Desktop Linux in our Lab
+OpenWrt:
+```opkg update; opkg install kmod-wireguard wireguard-tools```
+
+
