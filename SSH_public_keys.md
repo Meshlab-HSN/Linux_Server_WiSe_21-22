@@ -28,4 +28,8 @@ OpenWrt Linux: ```opkg update; opkg install kmod-wireguard wireguard-tools```
 
 Endeavouros Linux: ```sudo pacman -S wireguard-tools``` bzw. könnte es auch schon installiert sein
 
+### Generate private WireGuard keys on all systems you want to participate in the VPN (at least OpenWrt VM and Desktop in the lab)
+```wg genkey > /usr/my_wg_private_key```
+```wg pubkey < /usr/my_wg_private_key > /usr/my_wg_public_key```
+
 
