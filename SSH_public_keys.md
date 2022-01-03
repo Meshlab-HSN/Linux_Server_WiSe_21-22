@@ -1,9 +1,7 @@
-# Generate a new ssh key pair (ssh-keygen -t rsa -b 4096)
-# Add your public SSH key in the table
+## Generate a new ssh key pair (ssh-keygen -t rsa -b 4096)
+## Add your public SSH key in the table
 
-<br/>
-
-**Choose & Commit 
+**Choose & Commit**
 
 |  Student Name	        |  team name 		  | OpenWrt VM            	  |  public ssh key per user |
 | :-------------------: | :-------------: | :----------------------: | :----------------------: |
@@ -19,7 +17,7 @@
 | Martin                | no machine                  |  ssh root@172.30.1.11       | AAAAB3NzaC1yc2EAAAADAQABAAACAQDxAc0l8vT0o3eNZnyWIB1B/BeU3+s5/R9chBFcUacRZipn5y3Ukr4NZ14UntbU1DKwGCKGqcgHdfOqVmsN7QfkeiTDGEWTrtDSSgntbt9IW4XGzWYNAxm7ZLOOqeWQqXLlaW6NqD7t4AUe5DnVMQ1cFDI6GvoWMWU2t+fkGrjG8nnrrXtRKE4mM/tYybqgXEzgU1sMjW2AB0heRSed9TJWJek4QJ+nr2iNylgns4E7mZFf8J9DlmqHM0cXHBuOFq5Rj6uEOzYwyI8YtvEN2NZC3iM2Y6u+n3y/jQuGP0DFWBrlEbLNLFOODK5q63pXKNmoRhjj77xAiscivrklJt5a6wiIaF/BpV8mgwPQc7Ww8B9rsE52EWeRCiIhggsAk19jqggV70/wfJRCJZOXJ3OsxcSPsHKn8Y6ohQ2kZGfnbSttGgkL1yMqe87ARe+MY9OAg4vcqZwOyJk14K5J8u5QN+ri9z5VY0hi6+xcFXTXr6JcG3BiHbmm12gdjtawiJJuqQ0FM0JRqJRcF07J0hD6LgdiAU3YzoYlvfkipcdICFT1ausnlml2hO5SVo+W1zFhrbtTtvwgo9LhlhAJok98XRIaahOsHPGKZSqf8rrnWOYFeTjbVDOiAYWgya6ycGVDgKJQhCSZ7vF2b4zcmfOp2PASlMZOBzYSt0rw0hpEHQ== martin@mutterschiff
 
 
-# Check your ssh connectivity to our stepping-stone server
+### Check your ssh connectivity to our stepping-stone server
 ```ssh remote@109.73.30.34 -p 20322```
 
-# Check the ssh connectivity from the stepping stone to your OpenWrt Linux VM assigned in the list
+### Check the ssh connectivity from the stepping stone to your OpenWrt Linux VM assigned in the list
