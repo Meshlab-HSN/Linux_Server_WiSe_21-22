@@ -10,9 +10,9 @@ List of Topics:
 
 ** Please choose your team topic and fill it here + reconfigure your Desktop IP **
 
-|  Team 	    |   Topic           |   Desktop machine   |  fixed IP v4 from Medienzentrum
-| :-------:   | :---------------: | :----------------:  | :------------------------------: 
-| Arwed/Edgar | 6(alternativ 4)   |       Raupi         |   172.16.163.10/16
-| Amer/Manh   | 2(alternativ 6)   |       Pikacho       |   172.16.163.11/16
-| Nils/Martin | 3                 |       Smogmog       |   172.16.163.12/16
-| Valerius/Oliver| 5              | karpador            |   
+|  Team 	       |   Topic           |   Desktop machine   |  fixed IP v4 from Medienzentrum
+| :-------------:| :---------------: | :----------------:  | :------------------------------: 
+| Arwed/Edgar    | 6(alternativ 4)   |       Raupi         |   172.16.163.10/16
+| Amer/Manh      | 2(alternativ 6)   |       Pikacho       |   172.16.163.11/16
+| Nils/Martin    | 3                 |       Smogmog       |   172.16.163.12/16
+| Valerius/Oliver| 5                 |       Karpador      |   172.17.163.13/16
