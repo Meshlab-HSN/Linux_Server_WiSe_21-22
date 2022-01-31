@@ -14,4 +14,4 @@ List of Topics:
 | :-------:   | :---------------: | :-----------------------: | 
 |   Raupi     | 6(alternativ 4)   |
 | Amer/Manh   | 2(alternativ 6)   |
-|             |                   |
+| Nils/Martin | 3                 | smogmog
