@@ -8,10 +8,10 @@ List of Topics:
 6. How to make your smart home electricity accounting with MQTT accessible through a Wireguard tunnel
 
 
-** Please choose your team topic and fill it here **
+** Please choose your team topic and fill it here + reconfigure your Desktop IP **
 
-|  Team 	    | Topic             | Name of Desktop machine
-| :-------:   | :---------------: | :-----------------------: | 
-|   Raupi     | 6(alternativ 4)   |
-| Amer/Manh   | 2(alternativ 6)   |
-| Nils/Martin | 3                 | smogmog
+|  Team 	    |   Topic           |   Desktop machine   |  fixed IP v4 from Medienzentrum
+| :-------:   | :---------------: | :----------------:  | :------------------------------: 
+|   Raupi     | 6(alternativ 4)   |                     |   172.16.163.10/16
+| Amer/Manh   | 2(alternativ 6)   |                     |   172.16.163.11/16
+| Nils/Martin | 3                 | smogmog             |   172.16.163.12/16
