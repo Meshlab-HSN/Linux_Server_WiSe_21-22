@@ -1,4 +1,4 @@
-List of Topics:
+**List of Topics:**
 
 1. How to realise a Layer-2 Network with VxLAN on top of a Layer-3 Wireguard tunnel
 2. How to build a backup system for file from your machine to your server through a Wiregurad tunnel
@@ -8,7 +8,7 @@ List of Topics:
 6. How to make your smart home electricity accounting with MQTT accessible through a Wireguard tunnel
 
 
-** Please choose your team topic and fill it here **
+**Please choose your team topic and fill it here**
 
 |  Team 	       |   Topic   |   Desktop machine   |  fixed IP v4 from Medienzentrum
 | :-------------:| :-------: | :----------------:  | :------------------------------: 
@@ -18,7 +18,7 @@ List of Topics:
 | Valerius/Oliver| 5         |       Karpador      |   172.17.163.13/16
 | Andi/Florian   | 2         |       Kleinstein    |   172.17.163.14/16     
 
-** Re-Configure IPv4 of your Desktop machine 
+**Re-Configure IPv4 of your Desktop machine**
 - use the IPv4 adress in the table from Medienzentrum
 - configure your IPv4 gateway as: 172.16.1.1
 - configure your DNS to: 195.37.88.1
