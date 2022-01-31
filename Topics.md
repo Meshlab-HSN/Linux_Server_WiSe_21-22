@@ -15,8 +15,8 @@
 | Arwed/Edgar    | 4         |       Raupi         |   172.16.163.10/16
 | Amer/Manh      | 6         |       Pikacho       |   172.16.163.11/16
 | Nils/Martin    | 3         |       Smogmog       |   172.16.163.12/16
-| Valerius/Oliver| 5         |       Karpador      |   172.17.163.13/16
-| Andi/Florian   | 2         |       Kleinstein    |   172.17.163.14/16     
+| Valerius/Oliver| 5         |       Karpador      |   172.16.163.13/16
+| Andi/Florian   | 2         |       Kleinstein    |   172.16.163.14/16     
 
 **Re-Configure IPv4 of your Desktop machine**
 - use the IPv4 adress in the table from Medienzentrum
