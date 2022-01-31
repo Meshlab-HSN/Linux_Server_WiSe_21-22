@@ -5,14 +5,13 @@ List of Topics:
 3. How to stream your game running on your desktop machine to your laptop through a Wireguard tunnel
 4. How to make you home NAS (NextCloud) securly accessible through a Wireguard tunnel
 5. How to setup two Wireguard links between your desktop and OpenWrt server for fail over
-6. How to make your smart home with electricity accounting accessible through a Wireguard tunnel
-
+6. How to make your smart home electricity accounting with MQTT accessible through a Wireguard tunnel
 
 
 ** Please choose your team topic and fill it here **
 
-|  Team 	    | Topic             | 
-| :-------:   | :---------------: | 
+|  Team 	    | Topic             | Name of Desktop machine
+| :-------:   | :---------------: | :-----------------------: | 
 |   Raupi     | 6(alternativ 4)   |
 | Amer/Manh   | 2(alternativ 6)   |
 |             |                   |
