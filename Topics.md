@@ -15,3 +15,4 @@ List of Topics:
 | Arwed/Edgar | 6(alternativ 4)   |       Raupi         |   172.16.163.10/16
 | Amer/Manh   | 2(alternativ 6)   |       Pikacho       |   172.16.163.11/16
 | Nils/Martin | 3                 |       Smogmog       |   172.16.163.12/16
+| Valerius/Oliver| 5              | karpador            |   
