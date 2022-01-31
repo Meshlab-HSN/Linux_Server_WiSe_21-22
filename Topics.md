@@ -12,6 +12,7 @@ List of Topics:
 
 |  Team 	    |   Topic           |   Desktop machine   |  fixed IP v4 from Medienzentrum
 | :-------:   | :---------------: | :----------------:  | :------------------------------: 
-|   Raupi     | 6(alternativ 4)   |       Raupi         |   172.16.163.10/16
-| Amer/Manh   | 2(alternativ 6)   |       Pikacho       |   172.16.163.11/16
+|   Raupi     | 6(alternativ 4)   |                     |   172.16.163.10/16
+| Amer/Manh   | 2(alternativ 6)   |                     |   172.16.163.11/16
 | Nils/Martin | 3                 | smogmog             |   172.16.163.12/16
+| Valerius/Oliver| 5              | karpador            |   
