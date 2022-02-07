@@ -1,4 +1,4 @@
-## Induvidual Task per Group
+## 1/2 Induvidual Task per Group
 
 **List of Topics:**
 
@@ -25,7 +25,7 @@
 - configure your DNS to: 195.37.88.1
 
 
-## Common Task per Group: "Find the right cat!"
+## 2/2 Common Task per Group: "Find the right cat!"
 
 Your goal is to find the correct cat picture that corespondes to the hash value as content of a text file on a BananaPI Router on your desk.
 
