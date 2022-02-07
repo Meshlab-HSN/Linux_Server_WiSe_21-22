@@ -30,19 +30,22 @@
 Your goal is to find the correct cat picture that corespondes to the hash value as content of a text file on a BananaPI Router on your desk.
 
 Each group has a network setup on its desk consisting of your Desktop PC to which you should have remote access (tmate & wireguard). 
-All PCs are equiped with a second network card, which is connected to a 5-port switch. 
+All PCs are equiped with a second network card, which is connected to a 5-port router. 
 The router is connected to an electrical plugbar (called NETIO PowerBox4KF) that can be controlled over the network and an routerboard, called BananaPI. 
 The bananaPI is powered over the plugbar and powered off by default.
 
 In order to find the correct cat picture, you have to:
 
 - access your lab-PC from remote
-- find out the IP addresses of you network card and the NETIO Powerbox. (e.g. use tools like nmap, tcpdump, ping ...)
+- find out the IP addresses of you network card and the NETIO Powerbox. (e.g. use tools like nmap, tcpdump, ping, arp cache ...)
+  (on the 5-port switch is a dhcp server running, which would hand out IP adresses for all connected devices, e.g. NETIO)
 - find a way to access the powerplug over the network connection from your desktop pc (See the manual for the NETIO Powerbox 4KF)
 - switch all 4 power ports on - the BananaPI router will boot up. (See the manual for the NETIO Powerbox 4KF)
 - find the ip adress of your new booted BananaPI and acess it via ssh (user=root, password = Manni2021!)
-- find the textfile with the name "secret.txt"
-- find the matching cat picture's sha256sum hash that corresponds to the content of your secret.txt
+- find out on whith of the 4 possible power-ports your BananaPi rotuer is connected to (1/4, 2/4, 4/4 or 4/4 ?)
+- within the ssh session - > find the file with the name "secret.txt" somewhere in the file system of your BananaPi router
+- find the matching cat picture's sha256sum hash (see cat_pics folder in our git) that corresponds to the sha256sum hash given in your secret.txt
+- (upload your solution documentation with bulletpoint for each step, screen shots, hashes, problems, ... as PR to our git)
 
 Record your findings, what tool did you use to find out the IP addresses? How did you connect to the plugbar and power on you BananaPI? 
 On which port of the plugbar was your BananaPI? What's the name of your BananaPI?
