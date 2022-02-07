@@ -37,8 +37,8 @@ The bananaPI is powered over the plugbar and powered off by default.
 In order to find the correct cat picture, you have to:
 
 - access your lab-PC from remote
-- find out the IP addresses of you network card and the NETIO Powerbox. (e.g. use tools like nmap, for loop with ping ...)
-- find a way to access the powerplug over the network connection from your desktop pc
+- find out the IP addresses of you network card and the NETIO Powerbox. (e.g. use tools like nmap, tcpdump, ping ...)
+- find a way to access the powerplug over the network connection from your desktop pc (See the manual for the NETIO Powerbox 4KF)
 - switch all 4 power ports on - the BananaPI router will boot up. (See the manual for the NETIO Powerbox 4KF)
 - find the ip adress of your new booted BananaPI and acess it via ssh (user=root, password = Manni2021!)
 - find the textfile with the name "secret.txt"
