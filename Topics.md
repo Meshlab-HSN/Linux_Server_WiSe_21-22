@@ -1,3 +1,5 @@
+## Induvidual Task per Group
+
 **List of Topics:**
 
 1. How to realise a Layer-2 Network with VxLAN on top of a Layer-3 Wireguard tunnel
@@ -6,7 +8,6 @@
 4. How to make you home NAS (NextCloud) securly accessible through a Wireguard tunnel
 5. How to setup two Wireguard links between your desktop and OpenWrt server for fail over
 6. How to make your smart home electricity accounting with MQTT accessible through a Wireguard tunnel
-
 
 **Please choose your team topic and fill it here**
 
@@ -24,14 +25,16 @@
 - configure your DNS to: 195.37.88.1
 
 
-**Final Task:**
+## Common Task per Group: "Find the right cat!"
 
-Each group has an setup consisting of your desktop PC on which you have remote access. All PCs are connected to a router with their additional network card. 
+Your goal is to find the correct cat picture that corespondes to the hash value as content of a text file on a BananaPI Router on your desk.
+
+Each group has a network setup on its desk consisting of your Desktop PC to which you should have remote access (tmate & wireguard). 
+All PCs are equiped with a second network card, which is connected to a 5-port switch. 
 The router is connected to an electrical plugbar (called NETIO PowerBox4KF) that can be controlled over the network and an routerboard, called BananaPI. 
 The bananaPI is powered over the plugbar and powered off by default.
 
-Your goal is to find a textfile located on the BananaPI wich contains a hash of a catpicture and find out to what catpicture the hash correspondents to.
-to achive your goal you have to:
+In order to find the correct cat picture, you have to:
 
 - access your PC from remote
 - find out the IP addresses of: network card of your PC, the router, the plugbar and the BananaPI (after you powered it ON)
