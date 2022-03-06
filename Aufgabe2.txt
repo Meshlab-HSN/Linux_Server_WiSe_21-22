@@ -1,0 +1,69 @@
+Gruppe Arwed u. Edgar
+
+ip addr
+nmap -sP 1922.168.178.25/24
+##
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-02-17 14:03 CET
+Nmap scan report for fritz.box (192.168.178.1)
+Host is up (0.00051s latency).
+Nmap scan report for PowerBOX-8B.fritz.box (192.168.178.24)
+Host is up (0.0058s latency).
+Nmap scan report for raupi.fritz.box (192.168.178.25)
+Host is up (0.00021s latency).
+Nmap done: 256 IP addresses (3 hosts up) scanned in 2.31 seconds
+##
+
+nmap 192.168.178.24
+
+##
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-02-17 14:04 CET
+Nmap scan report for PowerBOX-8B.fritz.box (192.168.178.24)
+Host is up (0.00097s latency).
+Not shown: 998 closed ports
+PORT   STATE SERVICE
+23/tcp open  telnet
+80/tcp open  http
+##
+
+telnet 192.168.178.23 23
+login root Manni2021!
+port 1 1
+port 2 1
+port 3 1
+port 4 1
+
+nmap 192.168.178.25/24
+
+##
+Nmap scan report for OpenWrt-Raupi.fritz.box (192.168.178.20)
+##
+
+ssh root@192.168.178.20
+passwort: Manni2021!
+
+find / -name "secret.txt"
+
+##
+/etc/secret.txt
+/overlay/upper/etc/secret.txt
+##
+
+cd /etc
+cat secret.txt
+
+##
+c6cab3a74dff252d87889a7689f832a439f26f03c2b51ff9bf9f43434865cd65
+##
+
+#login netio box und ports einzeln disablen, nach jedem port nmap und gucken ob der pi noch online is.
+
+Raspberry pi ist an port 1 
+
+# catzenbilder vergleichen:
+#gesucht: c6cab3a74dff252d87889a7689f832a439f26f03c2b51ff9bf9f43434865cd65
+sha256sum '/mnt/sda2/LinuxServer/Catpictures/cat_A.png'
+## 0b10277f82331c42c5cb02b3afc509682b296b55539d00e07339716dbbb311ba
+sha256sum '/mnt/sda2/LinuxServer/Catpictures/cat_B.jpeg' 
+##c6cab3a74dff252d87889a7689f832a439f26f03c2b51ff9bf9f43434865cd65
+
+Auf dem Raspberry war der Hash des Katzenbildes B gespeichert!!!
